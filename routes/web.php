@@ -6,7 +6,6 @@ use App\Http\Controllers\CatalogController;
 use App\Http\Controllers\MemberController;
 use App\Http\Controllers\PublisherController;
 use App\Http\Controllers\TransactionController;
-use App\Http\Controllers\TransactionDetailController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
